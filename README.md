@@ -1,2 +1,2 @@
 # rezume
-Данный репозиторий будет содержать различные варианты резюме
+In the repository will be rezume.
